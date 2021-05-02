@@ -1,0 +1,11 @@
+﻿  hilos, pilas y colas.cpp
+C:\Users\andre\Desktop\UMG\Programacion 1\hilos, pilas y colas\hilos, pilas y colas\hilos, pilas y colas.cpp(44,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\andre\Desktop\UMG\Programacion 1\hilos, pilas y colas\hilos, pilas y colas\hilos, pilas y colas.cpp(101,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\andre\Desktop\UMG\Programacion 1\hilos, pilas y colas\hilos, pilas y colas\hilos, pilas y colas.cpp(158,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\andre\Desktop\UMG\Programacion 1\hilos, pilas y colas\hilos, pilas y colas\hilos, pilas y colas.cpp(215,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código
+  1 of 51 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  hilos, pilas y colas.vcxproj -> C:\Users\andre\Desktop\UMG\Programacion 1\hilos, pilas y colas\x64\Release\hilos, pilas y colas.exe
